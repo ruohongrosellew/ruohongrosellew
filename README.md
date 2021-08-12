@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Garlic-rw
-- 🌱 I’m currently learning data structure.
-- 💙 I'm a freshman university student @UCB.
+- 💙 I'm a sophomore undergrad student @UCB. My major is bioengineering and EECS. I'm interested in the interdisiplinary field between computer science and biology, namely computational biology.
 
 <!---
 Garlic-rw/Garlic-rw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
