@@ -1,7 +1,7 @@
 ### Hello world👋
 
 - 👋 Hi, I’m Ruohong (Roselle)
-- 💙 I'm a sophomore (rising junior) undergrad student **@UC Berkeley💙💛🐻(UC🥦)**. My major is EECS (Electrical Engineering and Computer Science) and bioengineering (computational biology concentration). I decide to double major beacuse I want to learn more in the interdisciplinary field between computer science and bioengineering. I'm currently interested in computational biology and especially its application in the clinical and medical field. I also enjoy coding and learning new stuff in the computer science field.
+- 💙 I'm a junior undergrad student **@UC Berkeley💙💛🐻(UC🥦)**. My major is EECS (Electrical Engineering and Computer Science) and bioengineering (computational biology concentration). I decide to double major beacuse I want to learn more in the interdisciplinary field between computer science and bioengineering. I'm currently interested in computational biology and especially its application in the clinical and medical field. I also enjoy coding and learning new stuff in the computer science field.
 - I'm currently an undergraduate researcher at the Dean Lab (UCSF) researching *Gardnrella vaginalis*, *Chlamydia trachomatis*, other STIs and the human vaginal community state types (CSTs).  
 
 **My toolbox:**
