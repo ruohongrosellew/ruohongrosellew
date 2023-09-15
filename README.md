@@ -15,6 +15,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" height="25">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25" height="25">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" width="25" height="25">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="25" height="25">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="25" height="25">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="25" height="25">
+  <img src="https://github.com/ruohongrosellew/ruohongrosellew/blob/main/Tall_2.png" width="25" height="25">
 </p>
 
 <!---
