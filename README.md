@@ -1,9 +1,10 @@
 ### Hello world👋
 
-- 👋 Hi, I’m Ruohong Wang (**王若鸿**) a.k.a **Roselle** 
-- 💙 I recently graduated from **@UC Berkeley💙💛🐻(UC🥦)**. My major is EECS (Electrical Engineering and Computer Science) and Bioengineering (computational biology concentration). I decided to double major because I want to learn more in the interdisciplinary field of computer science and bioengineering. 
-- During my undergrad, I worked as an undergraduate researcher at the Dean Lab (UCSF) researching *Gardnrella vaginalis*, *Chlamydia trachomatis*, other STIs, and the human vaginal community state types (CSTs).
+- 👋 Hi, I’m Ruohong Wang (**王若鸿**) a.k.a **Roselle**
 - ❤️ Currently, I'm pursuing my PhD in Bioinformatics **@Boston University**
+- 💙 I recently graduated from **UC Berkeley💙💛🐻(UC🥦)** in 2024. My major is EECS (Electrical Engineering and Computer Science) and Bioengineering (computational biology concentration). I decided to double major because I want to learn more in the interdisciplinary field of computer science and bioengineering. 
+- During my undergrad, I worked as an undergraduate researcher at the Dean Lab (UCSF) researching *Gardnrella vaginalis*, *Chlamydia trachomatis*, other STIs, and the human vaginal community state types (CSTs).
+- I also worked on creating machine learning models that use gut metagenomics data to predict outcome across diverse population.
 
 **My toolbox:**
 <p align="left">
@@ -24,6 +25,6 @@
 </p>
 
 <!---
-Garlic-rw/Garlic-rw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ruohongrosellew/ruohongrosellew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
