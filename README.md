@@ -4,7 +4,7 @@
 - ❤️ Currently, I'm pursuing my PhD in Bioinformatics **@Boston University**
 - 💙 I recently graduated from **UC Berkeley💙💛🐻(UC🥦)** in 2024. My major is EECS (Electrical Engineering and Computer Science) and Bioengineering (computational biology concentration). 
 - During my undergrad, I worked as an undergraduate researcher at the Dean Lab (UCSF) researching metagenomics, specifically focusing on the human microbiome in the genital tract (including vaginal, endocervical, and rectal microbiome), and focused on *Gardnrella vaginalis*, *Chlamydia trachomatis*, other STIs, and the human vaginal community state types (CSTs).
-- I also worked on a project in Dr. Ashely Wolf's lab, creating machine learning models that use gut metagenomics data to predict outcomes across diverse populations.
+- I also worked on a project in Dr. Ashely Wolf's lab (UC Berkeley), creating machine learning models that use gut metagenomics data to predict outcomes across diverse populations.
 
 **My toolbox:**
 <p align="left">
